@@ -2,7 +2,7 @@
 
 # George Josy
 
-**Software Developer . Business Analyst **
+**Software Developer** **.** **Business Analyst**
 
 📍 Kerala, India &nbsp;|&nbsp; 📧 georgejosy23@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgejosy)
 
@@ -82,14 +82,14 @@ Streamlines visitor handling, appointments, and administrative workflows across 
 
 ## Currently
 
-- 🔭 Expanding machine-to-LIMS integration systems with broader protocol support
+- 🔭 Currently building my enthusiasm for AI and Data Science
 - 🌱 Deepening backend development and API design skills
-- 🧩 Studying scalable application architecture patterns
+- 🧩 Learning Java 
 - 📈 Preparing for global engineering opportunities
 
 ---
 
-## Education & Leadership
+## Education 
 
 🎓 **B.Tech in Computer Science & Engineering**
 
