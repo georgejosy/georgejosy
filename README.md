@@ -2,7 +2,7 @@
 
 # George Josy
 
-**LIMS Integration Specialist · Software Developer**
+**Software Developer * Business Analyst **
 
 📍 Kerala, India &nbsp;|&nbsp; 📧 georgejosy23@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgejosy)
 
@@ -12,9 +12,7 @@
 
 ## About
 
-I'm a Computer Science graduate working as a **LIMS Developer**, building and deploying real-time machine integration systems using .NET. I design the invisible layer between physical laboratory instruments and software — handling protocols like TCP/IP and RS232, and processing HL7 & ASTM-formatted data to automate lab workflows, reduce manual errors, and improve operational efficiency.
-
-> *Basically… I make machines talk to software without drama.*
+I'm a Computer Science graduate working as a **Software Developer**, building and deploying real-time machine integration systems using .NET. I design the invisible layer between physical laboratory instruments and software — handling protocols like TCP/IP and RS232, and processing HL7 & ASTM-formatted data to automate lab workflows, reduce manual errors, and improve operational efficiency.
 
 ---
 
@@ -39,7 +37,6 @@ I'm a Computer Science graduate working as a **LIMS Developer**, building and de
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
@@ -96,12 +93,6 @@ Streamlines visitor handling, appointments, and administrative workflows across 
 
 🎓 **B.Tech in Computer Science & Engineering**
 
-| Role | Organisation |
-|------|-------------|
-| CEO | IEDC VISAT |
-| Student Coordinator | IQAC |
-| Volunteer | Google Crowdsource |
-| Committee Member | Anti-Ragging Committee |
 
 ---
 
